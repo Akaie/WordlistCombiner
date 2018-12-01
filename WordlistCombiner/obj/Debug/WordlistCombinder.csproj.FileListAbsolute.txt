@@ -1,0 +1,10 @@
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\bin\Debug\WordlistCombinder.exe.config
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\bin\Debug\WordlistCombinder.exe
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\bin\Debug\WordlistCombinder.pdb
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.csprojAssemblyReference.cache
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.Form1.resources
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.Properties.Resources.resources
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.csproj.GenerateResource.cache
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.csproj.CoreCompileInputs.cache
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.exe
+c:\users\akago\source\repos\WordlistCombinder\WordlistCombinder\obj\Debug\WordlistCombinder.pdb
